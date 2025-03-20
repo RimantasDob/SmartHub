@@ -1,0 +1,182 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "85adb28f-5ec0-4ceb-90de-00fbdb3ef540")
+	(paper "A3")
+	(lib_symbols)
+	(sheet
+		(at 54.61 148.59)
+		(size 57.15 41.91)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "473739d5-14b3-4dfb-84f0-f85180cfbbfa")
+		(property "Sheetname" "IRM-10-24"
+			(at 54.61 147.8784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "IRM-10-24.kicad_sch"
+			(at 54.61 191.0846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "MainBoard"
+				(path "/85adb28f-5ec0-4ceb-90de-00fbdb3ef540"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 43.18 81.28)
+		(size 55.88 36.83)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "48ebc16f-dcc2-4463-b927-ad62d57791a5")
+		(property "Sheetname" "ESP32"
+			(at 43.18 80.5684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ESP32.kicad_sch"
+			(at 43.18 118.6946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "MainBoard"
+				(path "/85adb28f-5ec0-4ceb-90de-00fbdb3ef540"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 110.49 29.21)
+		(size 62.23 41.91)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b89aaa5b-8d31-43a8-85fc-5e415f64897d")
+		(property "Sheetname" "InputBoard1"
+			(at 110.49 28.4984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "InputBoard.kicad_sch"
+			(at 110.49 71.7046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "MainBoard"
+				(path "/85adb28f-5ec0-4ceb-90de-00fbdb3ef540"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 43.18 29.21)
+		(size 62.23 41.91)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f8097b18-020b-4587-ba3f-bdb8e2503acc")
+		(property "Sheetname" "InputBoard"
+			(at 43.18 28.4984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "InputBoard.kicad_sch"
+			(at 43.18 71.7046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "MainBoard"
+				(path "/85adb28f-5ec0-4ceb-90de-00fbdb3ef540"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
