@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 1.4,
-          "width": 1.2
+          "drill": 0.8,
+          "height": 1.27,
+          "width": 2.54
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -476,7 +476,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "MainBoard.kicad_pro",
+    "filename": "Power.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -512,7 +512,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "C:/Users/The Internet/Documents/My_SS4H/KiCAD/Main Hub/MainBoard/GRBL3/",
+      "plot": "GRBL/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -636,24 +636,8 @@
   },
   "sheets": [
     [
-      "85adb28f-5ec0-4ceb-90de-00fbdb3ef540",
+      "30812089-cea5-4d96-ae8e-5ae38898024f",
       "Root"
-    ],
-    [
-      "f8097b18-020b-4587-ba3f-bdb8e2503acc",
-      "InputBoard"
-    ],
-    [
-      "48ebc16f-dcc2-4463-b927-ad62d57791a5",
-      "ESP32"
-    ],
-    [
-      "473739d5-14b3-4dfb-84f0-f85180cfbbfa",
-      "IRM-10-24"
-    ],
-    [
-      "b89aaa5b-8d31-43a8-85fc-5e415f64897d",
-      "InputBoard1"
     ]
   ],
   "text_variables": {}
